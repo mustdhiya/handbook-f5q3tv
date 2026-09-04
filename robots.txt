@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mustdhiya.github.io/handbook-f5q3tv/sitemap.xml
